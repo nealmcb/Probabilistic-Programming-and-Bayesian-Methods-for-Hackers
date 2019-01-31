@@ -1,1 +1,3 @@
+pip --version
+pip freeze
 pip install pymc
