@@ -1,4 +1,5 @@
 pip --version
 pip freeze
-${KERNEL_PYTHON_PREFIX}/bin/pip install --no-cache-dir numpy
-${KERNEL_PYTHON_PREFIX}/bin/pip install --no-cache-dir pymc==2.3.4
+# ${KERNEL_PYTHON_PREFIX}/bin/pip install --no-cache-dir numpy
+# ${KERNEL_PYTHON_PREFIX}/bin/pip install --no-cache-dir pymc==2.3.4
+${KERNEL_PYTHON_PREFIX}/bin/pip install --no-cache-dir pymc3
